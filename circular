@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> google</title>
+<style> 
+.circular-img{
+
+border-radius: 50px;
+}
+</style>
+</head>
+<body>
+ <img class="circular-img" src="thumbnails/thumbnail-2.webp">
+
+</body>
+</html>

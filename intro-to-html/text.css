@@ -1,0 +1,65 @@
+p{ 
+  font-family: roboto ;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+.video-title  {
+  
+  font-size: 18px; 
+  font-weight: bold;
+  width:300px;
+  line-height:24px
+  
+}
+
+ .video-stats {
+  
+  font-size: 14px;
+  color:#606060;
+  
+  margin-bottom: 20px;
+
+
+ } 
+
+.Marques-Brownlee {
+  
+  font-size : 13px;
+  color:#605C54
+  }
+
+.talking-tech { 
+  
+  font-size : 13px;
+  color:#605C54 ;
+  width: 250px;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom:100px
+}
+
+.shop-early{
+  margin-bottom: 50px;
+  font-size:14px;
+  background-color:  #e34140;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top:15px ;
+  padding-bottom: 15px ;
+  margin-left: 10px;
+  text-align: center;
+  
+  
+}
+.shop-example{ margin-left: 8px}
+.shop-example:active {
+  color: darkgrey;
+  
+}
+.shop-example:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  
+}

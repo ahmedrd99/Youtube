@@ -1,0 +1,114 @@
+.subscribe-button {
+  background-color: rgb(200, 0, 0);
+color: white;
+border: none;
+margin-left:30px;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:16px;
+padding-right:16px;
+border-radius: 2px;
+ cursor: pointer;
+ margin-right: 8px;
+ transition: opacity 0.15s;
+} 
+.subscribe-button:hover {
+  opacity: 0.8;
+}
+.subscribe-button:active{
+  opacity:0.5;}
+
+ 
+.join-button { 
+    
+background-color: white;
+
+border-color: rgb(41, 118, 211);
+border-style: solid;
+border-width: 1px;
+Color:rgb(41, 118, 211);
+padding-bottom:9px;
+padding-top:9px;
+padding-left:16px;
+padding-right:16px;
+ border-radius: 2px;
+ cursor: pointer;
+ transition: background-color 0.15s;
+} 
+.join-button:hover {
+  background-color:rgb(41, 118, 211);
+  color: white ;
+} 
+.join-button:active {
+  opacity:0.7;
+  background-color:rgb(41, 118, 211); 
+  
+} 
+
+ 
+
+ .Tweet-button { background-color: #1d9bf0;
+  border-color: #1d9bf0;
+border-style: solid;
+border-width: 1px;
+Color:white;
+ height: 36px;
+ width:70px;
+ border-radius: 15px;
+ cursor: pointer;
+ font-weight: bold;
+ font-size: 15px;
+ margin-left: 8px;
+ transition: opacity 0.15s;
+ box-shadow: 5px 5px 10px rgba(0,0,0, 0.15)
+ transition box-shadow 0.15s ;
+}
+  
+ .Tweet-button:hover { box-shadow: 5px 5px 10px rgba(0,0,0, 0.15) ;
+}
+ 
+.add-to-cart-button {
+  background-color: #FF9900; /* Couleur de fond */
+  color: #111111; /* Couleur du texte */
+  border: none;
+  height: 40px;
+  width: 150px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease;
+  margin-left: 8px;
+  
+}
+.add-to-cart-button:hover {
+  background-color: #e68a00;  
+}
+.add-to-cart-button:active {
+  transform: translateY(5px);  
+  box-shadow: 0px 3px 0px #CC7700, 0px 6px 10px rgba(0, 0, 0, 0.2); /* Ombres modifiées lors du clic */
+}
+
+  
+
+
+
+.button-3d {
+  background-color: #FF9900; /* Couleur de fond */
+  color: #111111; /* Couleur du texte */
+  border: none; /* Pas de bordure */
+  height: 40px; /* Hauteur du bouton */
+  width: 150px; /* Largeur du bouton */
+  border-radius: 5px; /* Coins arrondis */
+  cursor: pointer; /* Curseur de pointeur */
+  font-size: 16px; /* Taille de police */
+  font-weight: bold; /* Texte en gras */
+  box-shadow: 0px 5px 0px #CC7700, 0px 8px 15px rgba(0, 0, 0, 0.2); /* Ombres pour l'effet 3D */
+  transition: transform 0.1s ease; /* Transition pour l'effet de clic */
+}
+
+.button-3d:active {
+  transform: translateY(5px); /* Déplacement vers le bas lors du clic */
+  box-shadow: 0px 3px 0px #CC7700, 0px 6px 10px rgba(0, 0, 0, 0.2); /* Ombres modifiées lors du clic */
+}
